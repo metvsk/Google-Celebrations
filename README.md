@@ -2,8 +2,7 @@
 #Google Celebrations
 
 Kotlin android code lab project with Few Layouts and Image Views using github</br>
-<b font-size: 75>inorder to understand git hub functionalities</b>
-
+###inorder to understand git hub functionalities
 
 
 <div align="center">
