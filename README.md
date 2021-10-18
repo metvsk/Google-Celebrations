@@ -1,5 +1,5 @@
 <div align="left">
-    <img src="app/src/main/res/mipmap-xxhdpi/ic_launcher.png" width="150px"</img>
+    <img src="/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" width="150px"</img>
 </div>
 
 # Google Celebrations
