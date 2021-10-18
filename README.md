@@ -2,8 +2,7 @@
 
 # Google Celebrations
 
-Kotlin android code lab project with Few Layouts and Image Views using github</br>
-###### inorder to understand git hub functionalities
+Kotlin android code lab project with Few Layouts and Image Views using github</br>## inorder to understand git hub functionalities
 
 
 <div align="center">
