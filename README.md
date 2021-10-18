@@ -1,5 +1,10 @@
-# Happy-Bithday
-Kotlin android code lab project created using github "inorder to understand git hub" functionalities
+<div align="left">
+    <img src="/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" width="150px"</img>
+</div>
+
+# Google Celebrations
+
+Kotlin android code lab project created using github **"inorder to understand git hub"** functionalities
 
 
 
