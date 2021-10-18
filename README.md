@@ -1,4 +1,5 @@
-<img src="/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" width="150px"</img># Google Celebrations
+<span><img src="/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" width="150px"</img></span>
+# Google Celebrations
 
 Kotlin android code lab project created using github **"inorder to understand git hub"** functionalities
 
