@@ -1,8 +1,9 @@
 <div><img src="/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" width="150px"</img></div>
+
 # Google Celebrations
 
 Kotlin android code lab project with Few Layouts and Image Views using github</br>
-## inorder to understand git hub functionalities
+###### inorder to understand git hub functionalities
 
 
 <div align="center">
