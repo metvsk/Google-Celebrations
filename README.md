@@ -10,6 +10,6 @@ Kotlin android code lab project created using github **"inorder to understand gi
 </div>
 
 
-Hi developers attend this kotlin basics class from Google.
-Learn adapt and Improve.
+Hi developers attend this kotlin basics class from Google.</br>
+Learn adapt and Improve.</br>
 https://developer.android.com/courses/android-basics-kotlin/course
