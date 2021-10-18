@@ -4,7 +4,7 @@
 
 # Google Celebrations
 
-Kotlin android code lab project created using github "inorder to understand git hub" functionalities
+Kotlin android code lab project created using github **"inorder to understand git hub"** functionalities
 
 
 
